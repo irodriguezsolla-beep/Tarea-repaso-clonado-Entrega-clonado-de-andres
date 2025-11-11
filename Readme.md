@@ -68,3 +68,8 @@ Una vez añadido el propio remoto, eliminar el repositorio original (origin) par
 Ver Repositorios Remotos Finales:
 
 Comprobar que origin ha desaparecido y solo queda mirepositorio.
+1. Abre PyCharm y asegúrate de que tu proyecto tenga Git habilitado.
+2. Busca la barra de herramientas de Git en la parte inferior derecha de PyCharm.
+3. Haz clic en el nombre del branch → Manage Remotes o busca un ícono de “repositorio” o “Git” → Remotes.
+4. Se abrirá una ventana donde puedes ver todos los remotos configurados, incluyendo su nombre y URL.
+![r.png](r.png)
