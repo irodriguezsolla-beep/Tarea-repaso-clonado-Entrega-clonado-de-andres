@@ -62,6 +62,7 @@ Una vez añadido el propio remoto, eliminar el repositorio original (origin) par
 2. Selecciona el remoto que quieres eliminar
 ![Eliminar1.png](Eleiminar1.png)
 3. Haz clic en el botón -
+
 ![Eliminar2.png](Eliminar2.png)
 ---------------------------------------------------------
 Ver Repositorios Remotos Finales:
